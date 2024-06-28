@@ -50,12 +50,12 @@ This will run all the tests in the `TextCalculatorTests` class.
 - Empty input will return "0".
 - Negative numbers are not allowed and will throw an exception.
 - A missing number in the last position (e.g., "1,2,") is considered invalid input and will throw an exception.
-- Invalid Format Error is throw If:
+- Edge cases or Invalid Format Error is throw If:
    - Number contains other characters (e.g.," &, ,/").
    - Number contains letters(e.g.,"a,b,c")
 - In the FrontEnd shows the following new features:
   - Exception Tracking Table with "Missing Number", "Negative Number", "Invalid Format", and "Correct Number"
-  - Reset Button to clears all recorded and resets the table.
+  - Reset Button to clear all records and resets the table.
   - The Table displays the exception types with their respective color(green,red,yellow, orange) 
  
 

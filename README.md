@@ -6,6 +6,7 @@ This project implements a simple text calculator with a .NET Core backend API an
 
 - .NET Core SDK (version 6 or later)
 - A web browser
+- xUnit NuGet packages
 
 ## Running the Application
 

@@ -21,6 +21,7 @@ This project implements a simple text calculator with a .NET Core backend API an
    ```
 
    This will start the API on `https://localhost:7149` (and `http://localhost:5027`).
+   Swagger is running on https://localhost:7149/swagger/index.html if you want to test the API endpoint with Post method.
 
 4. Open a web browser and navigate to `https://localhost:7149/index.html`. You should see the Text Calculator interface.
 
